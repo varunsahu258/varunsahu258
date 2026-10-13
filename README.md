@@ -111,8 +111,6 @@ Public/private rooms, direct messages and a contact system, supporting **50+ con
 </tr>
 </table>
 
-> 📌 **Tip:** Pin your best 4–6 repositories above this section and link each project title to its repo.
-
 ---
 
 ## 🛠️ Tech Stack
